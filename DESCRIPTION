@@ -1,0 +1,19 @@
+Package: CCB2021
+Title: CCB talk, 2021
+Version: 0.0.1
+Authors@R: c(
+    person("Kevin", "Rue-Albrecht", role = "aut", email = "kevinrue67@gmail.com", comment = c(ORCID = "0000-0003-3899-3872"))
+    )
+Description: Slides for the CCB talk on November 5th, 2021.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Suggests:
+    rmarkdown,
+    htmltools,
+    knitr,
+    RefManageR,
+    bibtex,
+    xaringan
