@@ -291,46 +291,38 @@ PrintBibliography(bib)
 
 ---
 
-# Contact
+# Other projects & commitments
 
-.pull-left[
-.center[
-<img src="img/kevinrue-sticker.png" alt="Kevin Rue-Albrecht" height="100px">
-]
+- [OBDS Training Programme](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/training/oxford-biomedical-data-science-training-programme)
 
-`r fontawesome::fa("github", fill = "black", position = "static")` [kevinrue](https://kevinrue.github.io)
+- Software development & maintenance
 
-`r fontawesome::fa("twitter", fill = "#1da1f2", position = "static")` [KevinRUE67](https://twitter.com/KevinRUE67)
+  + <a href="https://github.com/kevinrue/velociraptor">
+  <img src="img/velociraptor-sticker.png" alt="logo" style="vertical-align:middle"   height="80px">
+  </a>
+  <a href="https://github.com/iSEE/iSEEu">
+  <img src="img/iseeu-sticker.png" alt="logo" style="vertical-align:middle"   height="80px">
+  </a>
+  <a href="https://github.com/iSEE/iSEE">
+  <img src="img/isee-sticker.png" alt="logo" style="vertical-align:middle"   height="80px">
+  </a>
+  <a href="https://github.com/kevinrue/TVTB">
+  <img src="img/tvtb-sticker.png" alt="logo" style="vertical-align:middle"   height="80px">
+  </a>
+  <a href="https://github.com/kevinrue/GOexpress">
+  <img src="img/goexpress-sticker.png" alt="logo" style="vertical-align:middle"   height="80px">
+  </a>
 
-`r fontawesome::fa("linkedin", fill = "#0e76a8", position = "static")` [kevin-rue-albrecht](https://www.linkedin.com/in/kevin-rue-albrecht/)
-]
+  + [CapCruncher](https://github.com/sims-lab/CapCruncher): Analysis software for Capture-C, Tri-C and Tiled-C data
 
-.pull-right[
-.center[
-<a href="https://bioconductor.org/packages/iSEE/">
-<img src="img/isee-sticker.png" alt="iSEE" height="100px">
-</a>
-]
+- Member of the [Biocondutor Community Advisory Board](http://www.bioconductor.org/about/community-advisory-board/)
 
-`r fontawesome::fa("slack", fill = "black", position = "static")`
-The [#isee](https://community-bioc.slack.com/archives/C8BJLSP8T) channel of the Bioconductor Slack workspace.
-Join [here](https://bioc-community.herokuapp.com/)!
+  + Multilingual Code of Conduct: <https://github.com/kevinrue/bioc_coc_multilingual>
 
-`r fontawesome::fa("github", fill = "black", position = "static")`
-The iSEE GitHub organization at
-<https://github.com/iSEE>
+  + Education Committe - The Carpentries lesson development: [The Bioconductor project](https://github.com/carpentries-incubator/bioc-project)
 
-]
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-.center[
-This presentation on GitHub at
-
-<https://kevinrue.github.io/xaringan_nextgen_omics_2021/>
-]
+  + Online book: [Bioconductor Packages: Development, Maintenance, and Peer Review](http://contributions.bioconductor.org/)
+  
+  + Online materials: [Bioconductor Guidelines for Mentors and Mentees](https://kevinrue.github.io/bioc-mentorship-docs/)
+  
+- Conference talk: [NextGen Omics UK 2021](https://www.oxfordglobal.co.uk/nextgen-omics-series-uk/) (November 4-5 & 8, 2021)
